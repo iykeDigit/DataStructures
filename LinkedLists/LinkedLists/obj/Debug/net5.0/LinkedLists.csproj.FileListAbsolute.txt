@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Algorithms\DataStructures\LinkedLists\LinkedLists\bin\Debug\net5.0\LinkedLists.exe
+C:\Users\hp\Desktop\Algorithms\DataStructures\LinkedLists\LinkedLists\bin\Debug\net5.0\LinkedLists.deps.json
+C:\Users\hp\Desktop\Algorithms\DataStructures\LinkedLists\LinkedLists\bin\Debug\net5.0\LinkedLists.runtimeconfig.json
+C:\Users\hp\Desktop\Algorithms\DataStructures\LinkedLists\LinkedLists\bin\Debug\net5.0\LinkedLists.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Algorithms\DataStructures\LinkedLists\LinkedLists\bin\Debug\net5.0\LinkedLists.dll
+C:\Users\hp\Desktop\Algorithms\DataStructures\LinkedLists\LinkedLists\bin\Debug\net5.0\ref\LinkedLists.dll
+C:\Users\hp\Desktop\Algorithms\DataStructures\LinkedLists\LinkedLists\bin\Debug\net5.0\LinkedLists.pdb
+C:\Users\hp\Desktop\Algorithms\DataStructures\LinkedLists\LinkedLists\obj\Debug\net5.0\LinkedLists.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Algorithms\DataStructures\LinkedLists\LinkedLists\obj\Debug\net5.0\LinkedLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Algorithms\DataStructures\LinkedLists\LinkedLists\obj\Debug\net5.0\LinkedLists.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Algorithms\DataStructures\LinkedLists\LinkedLists\obj\Debug\net5.0\LinkedLists.AssemblyInfo.cs
+C:\Users\hp\Desktop\Algorithms\DataStructures\LinkedLists\LinkedLists\obj\Debug\net5.0\LinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Algorithms\DataStructures\LinkedLists\LinkedLists\obj\Debug\net5.0\LinkedLists.dll
+C:\Users\hp\Desktop\Algorithms\DataStructures\LinkedLists\LinkedLists\obj\Debug\net5.0\ref\LinkedLists.dll
+C:\Users\hp\Desktop\Algorithms\DataStructures\LinkedLists\LinkedLists\obj\Debug\net5.0\LinkedLists.pdb
+C:\Users\hp\Desktop\Algorithms\DataStructures\LinkedLists\LinkedLists\obj\Debug\net5.0\LinkedLists.genruntimeconfig.cache
