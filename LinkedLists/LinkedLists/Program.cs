@@ -19,11 +19,12 @@ namespace LinkedLists
             list2.InsertAtTail(4);
             list2.InsertAtTail(5);
 
-            var check = list.Union(list, list2);
+           // var check = list.Union(list, list2);
 
-            list.RemoveDuplicates();
+           // list2.RemoveDuplicates();
             Console.WriteLine();
 
+           var x =  list.ReturnNthNodeFromEnd(2);
             //list.InsertAtIndex(1, 2);
            // list.Delete(0);
 

@@ -17,6 +17,61 @@ namespace LinkedLists
 
 
 
+        /// <summary>
+        /// Remove nth element from the end
+        /// </summary>
+        /// <returns></returns>
+        
+        public Node RemoveNthNodeFromEnd(int n) 
+        {
+            Node slow = Head;
+            Node fast = Head;
+
+            for(int i = 1; i <= n+1; i++) 
+            {
+                fast = fast.NextElement;
+                Console.WriteLine(i);
+            }
+
+            while (fast != null) 
+            {
+                slow = slow.NextElement;
+                fast = fast.NextElement;
+            }
+
+            slow.NextElement = slow.NextElement.NextElement;
+            return fast;
+            
+        }
+
+        /// <summary>
+        /// Return Nth node from the end
+        /// </summary>
+        /// <param name="n"></param>
+        /// <returns></returns>
+        public int ReturnNthNodeFromEnd(int n)
+        {
+            Node slow = Head;
+            Node fast = Head;
+
+            for (int i = 1; i <= n + 1; i++)
+            {
+                fast = fast.NextElement;
+                Console.WriteLine(i);
+            }
+
+            while (fast != null)
+            {
+                slow = slow.NextElement;
+                fast = fast.NextElement;
+            }
+
+            return slow.NextElement.Data;
+            
+
+        }
+
+
         public bool IsEmpty()
         {
             if (Head == null)
