@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Algorithms\DataStructures\Recursion\Recursion\bin\Debug\net5.0\Recursion.exe
+C:\Users\hp\Desktop\Algorithms\DataStructures\Recursion\Recursion\bin\Debug\net5.0\Recursion.deps.json
+C:\Users\hp\Desktop\Algorithms\DataStructures\Recursion\Recursion\bin\Debug\net5.0\Recursion.runtimeconfig.json
+C:\Users\hp\Desktop\Algorithms\DataStructures\Recursion\Recursion\bin\Debug\net5.0\Recursion.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Algorithms\DataStructures\Recursion\Recursion\bin\Debug\net5.0\Recursion.dll
+C:\Users\hp\Desktop\Algorithms\DataStructures\Recursion\Recursion\bin\Debug\net5.0\ref\Recursion.dll
+C:\Users\hp\Desktop\Algorithms\DataStructures\Recursion\Recursion\bin\Debug\net5.0\Recursion.pdb
+C:\Users\hp\Desktop\Algorithms\DataStructures\Recursion\Recursion\obj\Debug\net5.0\Recursion.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Algorithms\DataStructures\Recursion\Recursion\obj\Debug\net5.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Algorithms\DataStructures\Recursion\Recursion\obj\Debug\net5.0\Recursion.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Algorithms\DataStructures\Recursion\Recursion\obj\Debug\net5.0\Recursion.AssemblyInfo.cs
+C:\Users\hp\Desktop\Algorithms\DataStructures\Recursion\Recursion\obj\Debug\net5.0\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Algorithms\DataStructures\Recursion\Recursion\obj\Debug\net5.0\Recursion.dll
+C:\Users\hp\Desktop\Algorithms\DataStructures\Recursion\Recursion\obj\Debug\net5.0\ref\Recursion.dll
+C:\Users\hp\Desktop\Algorithms\DataStructures\Recursion\Recursion\obj\Debug\net5.0\Recursion.pdb
+C:\Users\hp\Desktop\Algorithms\DataStructures\Recursion\Recursion\obj\Debug\net5.0\Recursion.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Algorithms\DataStructures\StackAndQueue\StackAndQueue\StackAndQueue\bin\Debug\net5.0\StackAndQueue.exe
+C:\Users\hp\Desktop\Algorithms\DataStructures\StackAndQueue\StackAndQueue\StackAndQueue\bin\Debug\net5.0\StackAndQueue.deps.json
+C:\Users\hp\Desktop\Algorithms\DataStructures\StackAndQueue\StackAndQueue\StackAndQueue\bin\Debug\net5.0\StackAndQueue.runtimeconfig.json
+C:\Users\hp\Desktop\Algorithms\DataStructures\StackAndQueue\StackAndQueue\StackAndQueue\bin\Debug\net5.0\StackAndQueue.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Algorithms\DataStructures\StackAndQueue\StackAndQueue\StackAndQueue\bin\Debug\net5.0\StackAndQueue.dll
+C:\Users\hp\Desktop\Algorithms\DataStructures\StackAndQueue\StackAndQueue\StackAndQueue\bin\Debug\net5.0\ref\StackAndQueue.dll
+C:\Users\hp\Desktop\Algorithms\DataStructures\StackAndQueue\StackAndQueue\StackAndQueue\bin\Debug\net5.0\StackAndQueue.pdb
+C:\Users\hp\Desktop\Algorithms\DataStructures\StackAndQueue\StackAndQueue\StackAndQueue\obj\Debug\net5.0\StackAndQueue.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Algorithms\DataStructures\StackAndQueue\StackAndQueue\StackAndQueue\obj\Debug\net5.0\StackAndQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Algorithms\DataStructures\StackAndQueue\StackAndQueue\StackAndQueue\obj\Debug\net5.0\StackAndQueue.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Algorithms\DataStructures\StackAndQueue\StackAndQueue\StackAndQueue\obj\Debug\net5.0\StackAndQueue.AssemblyInfo.cs
+C:\Users\hp\Desktop\Algorithms\DataStructures\StackAndQueue\StackAndQueue\StackAndQueue\obj\Debug\net5.0\StackAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Algorithms\DataStructures\StackAndQueue\StackAndQueue\StackAndQueue\obj\Debug\net5.0\StackAndQueue.dll
+C:\Users\hp\Desktop\Algorithms\DataStructures\StackAndQueue\StackAndQueue\StackAndQueue\obj\Debug\net5.0\ref\StackAndQueue.dll
+C:\Users\hp\Desktop\Algorithms\DataStructures\StackAndQueue\StackAndQueue\StackAndQueue\obj\Debug\net5.0\StackAndQueue.pdb
+C:\Users\hp\Desktop\Algorithms\DataStructures\StackAndQueue\StackAndQueue\StackAndQueue\obj\Debug\net5.0\StackAndQueue.genruntimeconfig.cache
