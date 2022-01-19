@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Algorithms\DataStructures\Dynamic Programming\DynamicProgramming\DynamicProgramming\bin\Debug\net5.0\DynamicProgramming.exe
+C:\Users\hp\Desktop\Algorithms\DataStructures\Dynamic Programming\DynamicProgramming\DynamicProgramming\bin\Debug\net5.0\DynamicProgramming.deps.json
+C:\Users\hp\Desktop\Algorithms\DataStructures\Dynamic Programming\DynamicProgramming\DynamicProgramming\bin\Debug\net5.0\DynamicProgramming.runtimeconfig.json
+C:\Users\hp\Desktop\Algorithms\DataStructures\Dynamic Programming\DynamicProgramming\DynamicProgramming\bin\Debug\net5.0\DynamicProgramming.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Algorithms\DataStructures\Dynamic Programming\DynamicProgramming\DynamicProgramming\bin\Debug\net5.0\DynamicProgramming.dll
+C:\Users\hp\Desktop\Algorithms\DataStructures\Dynamic Programming\DynamicProgramming\DynamicProgramming\bin\Debug\net5.0\ref\DynamicProgramming.dll
+C:\Users\hp\Desktop\Algorithms\DataStructures\Dynamic Programming\DynamicProgramming\DynamicProgramming\bin\Debug\net5.0\DynamicProgramming.pdb
+C:\Users\hp\Desktop\Algorithms\DataStructures\Dynamic Programming\DynamicProgramming\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Algorithms\DataStructures\Dynamic Programming\DynamicProgramming\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Algorithms\DataStructures\Dynamic Programming\DynamicProgramming\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Algorithms\DataStructures\Dynamic Programming\DynamicProgramming\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.AssemblyInfo.cs
+C:\Users\hp\Desktop\Algorithms\DataStructures\Dynamic Programming\DynamicProgramming\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Algorithms\DataStructures\Dynamic Programming\DynamicProgramming\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.dll
+C:\Users\hp\Desktop\Algorithms\DataStructures\Dynamic Programming\DynamicProgramming\DynamicProgramming\obj\Debug\net5.0\ref\DynamicProgramming.dll
+C:\Users\hp\Desktop\Algorithms\DataStructures\Dynamic Programming\DynamicProgramming\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.pdb
+C:\Users\hp\Desktop\Algorithms\DataStructures\Dynamic Programming\DynamicProgramming\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.genruntimeconfig.cache

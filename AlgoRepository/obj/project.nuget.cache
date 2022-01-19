@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lZco3HQPH/NzqNiPA/M+9lTzaQzEvMlD5K9orMZZNDjS3fLWIvwwA3uLzfKBIyHAYUbx2NB/J176ajoJ9piXXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\Algorithms\\DataStructures\\AlgoRepository\\AlgoRepository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

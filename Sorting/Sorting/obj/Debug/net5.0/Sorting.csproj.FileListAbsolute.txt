@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Algorithms\DataStructures\Sorting\Sorting\obj\Debug\net5.0\Sorting.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Algorithms\DataStructures\Sorting\Sorting\obj\Debug\net5.0\Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Algorithms\DataStructures\Sorting\Sorting\obj\Debug\net5.0\Sorting.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Algorithms\DataStructures\Sorting\Sorting\obj\Debug\net5.0\Sorting.AssemblyInfo.cs
+C:\Users\hp\Desktop\Algorithms\DataStructures\Sorting\Sorting\obj\Debug\net5.0\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Algorithms\DataStructures\Sorting\Sorting\bin\Debug\net5.0\Sorting.exe
+C:\Users\hp\Desktop\Algorithms\DataStructures\Sorting\Sorting\bin\Debug\net5.0\Sorting.deps.json
+C:\Users\hp\Desktop\Algorithms\DataStructures\Sorting\Sorting\bin\Debug\net5.0\Sorting.runtimeconfig.json
+C:\Users\hp\Desktop\Algorithms\DataStructures\Sorting\Sorting\bin\Debug\net5.0\Sorting.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Algorithms\DataStructures\Sorting\Sorting\bin\Debug\net5.0\Sorting.dll
+C:\Users\hp\Desktop\Algorithms\DataStructures\Sorting\Sorting\bin\Debug\net5.0\ref\Sorting.dll
+C:\Users\hp\Desktop\Algorithms\DataStructures\Sorting\Sorting\bin\Debug\net5.0\Sorting.pdb
+C:\Users\hp\Desktop\Algorithms\DataStructures\Sorting\Sorting\obj\Debug\net5.0\Sorting.dll
+C:\Users\hp\Desktop\Algorithms\DataStructures\Sorting\Sorting\obj\Debug\net5.0\ref\Sorting.dll
+C:\Users\hp\Desktop\Algorithms\DataStructures\Sorting\Sorting\obj\Debug\net5.0\Sorting.pdb
+C:\Users\hp\Desktop\Algorithms\DataStructures\Sorting\Sorting\obj\Debug\net5.0\Sorting.genruntimeconfig.cache
