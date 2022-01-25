@@ -8,29 +8,119 @@ namespace Sorting
     {
         static void Main(string[] args)
         {
-            var x = new string[] { "GeeksforGeeeks", "I", "from", "am" };
-            var t = SortArray(x);
+            var m = SortStringArrayInsertionSort("dcba");
+           // var x = InsertionSortArray(new string[] { "geek", "balls", "codede", "rid" });
+
+
             Console.WriteLine();
         }
 
-        public static string[] SortArray(string[] arr) 
+        public static string SortStringArrayInsertionSort(string x) 
         {
-            for(int i = 1; i < arr.Length; i++) 
+            char[] arr = x.ToCharArray();
+            for(int i = 0; i < arr.Length; i++) 
             {
-                string temp = arr[i];
-
-                //insert s[i] at it's correct position
+                char key = arr[i];
                 int j = i - 1;
-                while (j >= 0 && temp.Length < arr[j].Length)
+
+              //  Console.WriteLine($"arr[j] is {arr[j]}");
+             //   Console.WriteLine($"key is {key}");
+                while (j >= 0 && arr[j] > key) 
                 {
                     arr[j + 1] = arr[j];
                     j--;
                 }
-                arr[j + 1] = temp;
+                arr[j + 1] = key;
+                
             }
+            return new string(arr);
+        }
+        public static string SortStrings(string x)
+        {
+            char[] arr = x.ToCharArray();
+            for(int i = 0; i < arr.Length-1; i++) 
+            {
+                int minIndex = i;
+                for (int j = i+1; j < arr.Length; j++)
+                {
+                    if(arr[j] < arr[minIndex]) 
+                    {
+                        minIndex = j;
+                    }
+                }
+                char temp = arr[minIndex];
+                arr[minIndex] = arr[i];
+                arr[i] = temp;
+            }
+
+            return new string(arr);
+        }
+
+        public static int[] SelectionSort(int[] arr)
+        {
+            for (int i = 0; i < arr.Length - 1; i++)
+            {
+                int min_index = i;
+                for (int j = i + 1; j < arr.Length; j++)
+                {
+                    if (arr[j] < arr[min_index])
+                    {
+                        min_index = j;
+                    }
+                }
+
+                int temp = arr[min_index];
+                arr[min_index] = arr[i];
+                arr[i] = temp;
+            }
+
+
             return arr;
         }
 
+
+        public static string[] SortAlphabetically(string[] arr) 
+        {
+            var dict = new Dictionary<string, int>();
+            for (int i = 0; i < arr.Length; i++)
+            {
+                dict[arr[i]] = i;               
+            }
+
+            var m = 0;
+
+            foreach(var item in dict.OrderBy(x => x.Key)) 
+            {
+                arr[m] = item.Key;
+                m++;
+            }
+
+            return arr;
+
+            
+            
+        }       
+
+        public static string[] InsertionSortArray(string[] arr) 
+        {
+            for(int i = 0; i < arr.Length; i++) 
+            {
+                string key = arr[i];
+                int j = i - 1;
+
+               // Console.WriteLine(arr[j]);
+                    while(j >= 0 && arr[j].Length > key.Length) 
+                    {
+                        arr[j + 1] = arr[j];
+                        j--;
+                    }
+                    arr[j + 1] = key;
+                
+                
+            }
+            return arr;
+        }
+        
         public static string[] SortElements(string[] arr)
         {
             var dict = new Dictionary<string, int>();
@@ -52,27 +142,7 @@ namespace Sorting
                 return arr;
         }
 
-        public static int[] SelectionSort(int[] arr) 
-        {
-           for(int i = 0; i < arr.Length-1; i++) 
-            {
-                int min_index = i;
-                for (int j = i+1; j < arr.Length; j++)
-                {
-                    if(arr[j] < arr[min_index]) 
-                    {
-                        min_index = j;
-                    }
-                }
-
-                int temp = arr[min_index];
-                arr[min_index] = arr[i];
-                arr[i] = temp;
-            }
-
-            
-            return arr;
-        }
+        
 
         public static int[] BubbleSort(int[] arr) 
         {
@@ -126,9 +196,13 @@ namespace Sorting
             int n = arr.Length;
             for (int i = 1; i < n; ++i)
             {
-                //8,5,4,2,3
+                //2,6,4,8,3,9
                 int key = arr[i];
                 int j = i - 1;
+
+                Console.WriteLine($"key is {key}");
+                Console.WriteLine($"arr[j] is {arr[j]}");
+                Console.WriteLine();
 
                 // Move elements of arr[0..i-1],
                 // that are greater than key,
@@ -143,6 +217,10 @@ namespace Sorting
             }
             return arr;
         }
+
+        
+
+       
 
         
 

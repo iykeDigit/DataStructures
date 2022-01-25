@@ -40,14 +40,82 @@ namespace AlgoRepository
             // var str = "10000 123 +";
             //var x = MaxSumArr(new int[] { 1,7,-2,-5,10,-1}, 6);
 
+            var arr = new string[] { "3/6+2/12", "7/10+13/12" };
+            var x = arr[1].Split("+");
+            var m = x[1].Substring(x[1].IndexOf("/") + 1);
 
-            var x = FindSum("1abc23");
+            var f = AddingFractions(arr);
 
-            //Console.WriteLine('b'- 'a');
             Console.WriteLine();
-
-
         }
+
+
+
+
+        /// <summary>
+        /// Adding fractions
+        /// </summary>
+        /// <param name="fractions"></param>
+        /// <returns></returns>
+        public static string[] AddingFractions(string[] fractions)
+        {
+            var arr = new List<string>();
+            for(int i = 0; i < fractions.Length; i++) 
+            {
+                var x = SplitString(fractions[i]);
+                var firstNumerator = x[0];
+                var secondNumerator = x[2];
+                var firstDem = x[1];
+                var secondDem = x[3];
+                var gcd = Gcd(firstDem, secondDem);
+                var lcm = (firstDem * secondDem) / gcd;
+
+                var addition = firstNumerator * (lcm / firstDem) + secondNumerator*(lcm / secondDem);
+                var lowestForm = Lowest(lcm, addition);
+                arr.Add(lowestForm);
+
+            }
+            return arr.ToArray();
+        }
+
+        public static List<int> SplitString(string str) 
+        {
+            var arr = str.Split("+");
+            var list = new List<int>();
+            foreach(var item in arr) 
+            {
+                var newArr = item.Split("/");
+                foreach (var i in newArr)
+                    list.Add(int.Parse(i));
+            }
+
+            return list;
+        }
+
+        public static string Lowest(int den3, int num3)
+        {
+            // Finding gcd of both terms
+            int common_factor = Gcd(num3, den3);
+
+            // Converting both terms into simpler
+            // terms by dividing them by common factor
+            den3 = den3 / common_factor;
+            num3 = num3 / common_factor;
+            return $"{num3}/{den3}";
+        }
+
+        public static int Gcd(int a, int b)
+        {
+            if (a == 0)
+                return b;
+            return Gcd(b % a, a);
+        }
+
+
+
+
+
+
 
         /// <summary>
         /// Calculate the sum of all numbers present in a string
